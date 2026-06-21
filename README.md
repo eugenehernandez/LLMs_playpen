@@ -1,6 +1,6 @@
 # LLMs Playpen
 
-Experimenting with LLM-powered application development. Currently one project:
+Experimenting with LLM-powered application development.
 
 ## YouTube Video Summarizer
 
